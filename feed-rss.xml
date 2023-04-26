@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Blog de Viajes - RSS</title>
+    <link>https://github.com/XianMaceira/RSS-Xian</link>
+    <description>Últimos artículos del blog de viajes</description>
+    <language>es</language>
+    <pubDate>Mon, 30 Apr 2023 12:34:56 GMT</pubDate>
+    <lastBuildDate>Mon, 30 Apr 2023 12:34:56 GMT</lastBuildDate>
+    <item>
+      <title>Artículo 1: "Los mejores destinos para unas vacaciones de ensueño"</title>
+      <link>https://github.com/XianMaceira/RSS-Xian</link>
+      <description>Contenido del artículo 1</description>
+      <pubDate>Thu, 15 Mar 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Artículo 2: "Descubriendo la cultura local en tus viajes"</title>
+      <link>https://github.com/XianMaceira/RSS-Xian</link>
+      <description>Contenido del artículo 2</description>
+      <pubDate>Thu, 22 Mar 2023 10:01:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Artículo 3: "Consejos para viajar de forma económica"</title>
+      <link>https://github.com/XianMaceira/RSS-Xian</link>
+      <description>Contenido del artículo 3</description>
+      <pubDate>Thu, 29 Mar 2023 02:24:43 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

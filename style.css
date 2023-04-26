@@ -1,0 +1,51 @@
+/* Estilos para la barra de navegación */
+nav {
+    background-color: steelblue;
+    padding: 20px;
+    text-align: center;
+}
+
+nav h1 {
+    margin: 0;
+    padding: 5px;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 10px;
+    background-color:white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+/* Estilos para los artículos */
+h2 {
+    font-size: 24px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-top: 20px;
+    text-align: center;
+}
+
+nav ul :hover {
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
